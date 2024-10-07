@@ -1,0 +1,5 @@
+.app{
+    flex-direction: column;
+    place-items: center;
+    display:flex;
+}
